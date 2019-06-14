@@ -1,0 +1,10 @@
+----------------Para executar o K-NN sem o AGUpdate---------------------
+	- Va no arquivo K-NN.py
+	- Descomente linhas que contem (#<------- Descomentar caso queira rodar apenas o K-NN)
+	- comente linhas que contem (Comentar caso queira rodar apenas o K-NN)
+	- Va no Terminal e digite o comando
+	- python K-NN.py [conjunto de treino] [conjunto de teste]
+
+----------------Para executar o K-NN Com o AGUpdate---------------------
+	- Va no Terminal e digite o comando
+	- python AGUpdate.py [conjunto de treino] [conjunto de teste]
